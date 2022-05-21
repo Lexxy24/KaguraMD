@@ -10,25 +10,25 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6285232604817','6285232604817','6285771052661']
+global.premium = ['6285232604817']
+global.ownernomer = '6285232604817'
+global.ownername = 'Koko Official'
+global.botname = 'KoKoReyMD'
+global.footer = 'Koko Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
-global.sp = '⭔'
+global.packname = '® KOKO•REY'
+global.author = '19-10-02'
+global.sp = '®'
 
 //---------( INFO )---------//
 global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
+global.ig = 'https://instagram.com/callme_rey1921'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.myweb = 'https://github.com/KokoReybot'
+global.email = 'kokorey19@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
