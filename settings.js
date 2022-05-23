@@ -10,10 +10,10 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
+global.owner = ['6297777888328','6297777888328','6297777888328']
+global.premium = ['6297777888328']
+global.ownernomer = '6297777888328'
+global.ownername = 'Lexxy 6297777888328'
 global.botname = 'KaguraMD'
 global.footer = 'Lexxy Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
